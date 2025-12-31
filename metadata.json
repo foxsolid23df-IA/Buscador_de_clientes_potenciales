@@ -1,0 +1,5 @@
+{
+  "name": "LeadGenius AI",
+  "description": "Herramienta de generación de leads impulsada por IA. Encuentra negocios locales, extrae datos de contacto y propietarios utilizando Google Maps y Google Search Grounding.",
+  "requestFramePermissions": []
+}
